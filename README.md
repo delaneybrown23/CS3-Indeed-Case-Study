@@ -1,3 +1,11 @@
 # CS3-Indeed-Case-Study
 
 This case study focuses on creating forecast predictions for the next five years in the U.S. _Indeed.com_ job posting market, with data sourced from the FRED's "Job Postings on Indeed", whose datasets come from the _Indeed Hiring Lab's_ "Indeed Job Postings Index" GitHub repository [2,4]. Specifically, using the SARIMAX time series forecast model, five-year forecasts will be created regarding _Indeed.com_ daily aggregate job postings across all sectors and daily job postings organized by individual job sectors and U.S. metro cities [7,8,9,10,19,21]. Conclusions drawn from the outputs created with this project's scripts will inform future job seekers and provide helpful information for the job search on _Indeed_.
+
+## Software and Packages
+
+## Repository Contents
+
+
+
+## How to Reproduce Project Results 
