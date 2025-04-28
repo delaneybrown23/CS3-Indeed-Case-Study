@@ -23,8 +23,12 @@ Below is a sample forecast output that is produced with the `aggregateForecast.p
   * `metroForecast.py`
   * `sectorForecast.py`
 * `MATERIALS`
-  * ... (article 1)
-  * ... (article 1)
+  * `CS3 Articles for Further Reading.pdf`
   * ... (rubric)
 
-## How to Reproduce Project Results 
+## How to Reproduce Project Outputs 
+1. Download the four datasets from the `DATA` folder in this repository.
+2. Follow along and run the `dataAnalysis.py` and `dataAnalysis01.py` scripts to produce some primary EDA analyses.
+3. Follow along and run `aggregateForecast.py` to produce a five-year SARIMAX forecast for the aggregate U.S. job postings.
+4. Follow along and run `metroForecast.py` to produce a five-year SARIMAX forecast for the top ten U.S. metro cities with the highest number of job postings.
+5. Follow along and run `sectorForecast.py` to produce a five-year SARIMAX forecast for the top ten job sectors with the highest number of job postings.
