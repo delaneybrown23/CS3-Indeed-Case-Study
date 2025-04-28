@@ -14,8 +14,8 @@ Below is a sample forecast output that is produced with the `aggregateForecast.p
 * `DATA`
   * `aggregate_job_postings_US (2).csv`
   * `job_postings_by_sector_US (3).csv`
-  * `metro_job_postings_us.csv`
-  * `state_job_postings_us.csv`
+  * `metro_job_postings_us (1).csv`
+  * `state_job_postings_us (1).csv`
 * `SCRIPTS`
   * `dataAnalysis.py`
   * `dataAnalysis01.py`
