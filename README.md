@@ -24,6 +24,7 @@ Below is a sample forecast output that is produced with the `aggregateForecast.p
   * `sectorForecast.py`
 * `MATERIALS`
   * `CS3 Articles for Further Reading.pdf`
+  * `CS3 References (1).pdf`
   * ... (rubric)
 
 ## How to Reproduce Project Outputs 
