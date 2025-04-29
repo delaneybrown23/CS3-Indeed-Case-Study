@@ -25,7 +25,7 @@ Below is a sample forecast output that is produced with the `aggregateForecast.p
 * `MATERIALS`
   * `CS3 Articles for Further Reading.pdf`
   * `CS3 References (1).pdf`
-  * ... (rubric)
+  * `Rubric.pdf`
 
 ## How to Reproduce Project Outputs 
 1. Download the four datasets from the `DATA` folder in this repository.
